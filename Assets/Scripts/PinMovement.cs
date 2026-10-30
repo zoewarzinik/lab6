@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class PinMovement : MonoBehaviour
 {
-    public float movementSpeed = .005f;
+    public float movementSpeed = 10;
     private int flipCount = 2500;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
